@@ -47,11 +47,15 @@ A web-based attendance management and analytics project designed to organize att
 
 **Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript, Power BI
 
+🔗 **Repository:** [AT-PAS](https://github.com/HaroonKhurram/AT-PAS)
+
 ### 2. Omni Web Scraper
 
 A web scraping application built to collect information from multiple websites and prepare datasets for further analysis and visualization.
 
 **Technologies:** C#, .NET, SQL Server, HTML, CSS, JavaScript
+
+🔗 **Repository:** [Omni Web Scraper](https://github.com/HaroonKhurram/Omni-Webscraper)
 
 ### 3. Food Delivery Database System
 
