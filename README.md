@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi, I'm Haroon Khurram 👋
 
-<!--
-**HaroonKhurram/HaroonKhurram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BS Data Science Student | Aspiring Data Scientist & Software Developer
 
-Here are some ideas to get you started:
+I'm a Data Science student at **University of Engineering and Technology (UET), Lahore, Pakistan**. I enjoy building practical software applications, working with databases, analyzing data, and exploring Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm continuously improving my technical skills by developing projects that combine programming, data management, and problem-solving.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+
+* Python
+* C#
+* SQL
+* JavaScript
+
+**Web Development**
+
+* HTML5
+* CSS3
+* Flask
+* .NET
+
+**Databases & Data Analytics**
+
+* PostgreSQL
+* SQLite
+* Microsoft SQL Server
+* Power BI
+
+**Tools & Platforms**
+
+* Git
+* GitHub
+* Visual Studio Code
+
+---
+
+## 🚀 Featured Projects
+
+### 1. AT-PAS — Attendance Tracking & Analytics System
+
+A web-based attendance management and analytics project designed to organize attendance records and provide insights through dashboards.
+
+**Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript, Power BI
+
+### 2. Omni Web Scraper
+
+A web scraping application built to collect information from multiple websites and prepare datasets for further analysis and visualization.
+
+**Technologies:** C#, .NET, SQL Server, HTML, CSS, JavaScript
+
+### 3. Food Delivery Database System
+
+A database project focused on relational database design and SQL operations for managing food delivery data.
+
+**Includes:** Database schema, ER diagram, SQL queries, stored procedures, triggers, and views.
+
+🔗 **Repository:** [Food Delivery Database System](https://github.com/HaroonKhurram/food-delivery-database-system)
+
+
+---
+
+## 🎯 Current Interests
+
+* Data Science and Exploratory Data Analysis
+* Artificial Intelligence and Machine Learning
+* Software Development
+* Database Design and Management
+* Building practical, data-driven applications
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Data Science**
+University of Engineering and Technology (UET), Lahore, Pakistan
+
+---
+
+## 🤝 Connect With Me
+
+* **GitHub:** [@HaroonKhurram](https://github.com/HaroonKhurram)
+* **LinkedIn:** Add your LinkedIn profile URL here
+* **Email:** Add your professional email address here
+
+---
+
+*Learning continuously. Building practically. Improving with every project.*
