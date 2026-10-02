@@ -4,7 +4,7 @@
 
 I'm a Data Science student at **University of Engineering and Technology (UET), Lahore, Pakistan**. I enjoy building practical software applications, working with databases, analyzing data, and exploring Artificial Intelligence and Machine Learning.
 
-I'm continuously improving my technical skills by developing projects that combine programming, data management, and problem-solving.
+I'm continuously improving my technical skills by developing projects that combine programming, data management, and problem-solving .
 
 ---
 
