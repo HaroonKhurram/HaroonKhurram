@@ -88,8 +88,8 @@ University of Engineering and Technology (UET), Lahore, Pakistan
 ## 🤝 Connect With Me
 
 * **GitHub:** [@HaroonKhurram](https://github.com/HaroonKhurram)
-* **LinkedIn:** [@HaroonKhurram](https://www.linkedin.com/in/haroon-khurram-096a53282/)
-* **Email:** [@HaroonKhurram](https://mail.google.com/mail/u/0/#inbox)
+* **LinkedIn:** [Haroon Khurram](https://www.linkedin.com/in/haroon-khurram-096a53282/)
+* **Email:** [harooneagle.ier@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 ---
 
